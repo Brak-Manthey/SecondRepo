@@ -1,0 +1,2 @@
+hier eine datei für das zweite repo, erstellt aus git
+soll gepusht werden auf server
